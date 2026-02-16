@@ -22,22 +22,25 @@ namespace ConsoleApp1
             {
                 var key = Console.ReadKey(true);
                 
+                // Om man trycker 1-9, köp upgrade
                 if (key.Key >= ConsoleKey.D1 && key.Key <= ConsoleKey.D9)
                 {
-                    int index = key.Key - ConsoleKey.D1;
+                    int index = key.Key - ConsoleKey.D1; //Omvandlar knapp till index
                     upgrades.BuyUpgrade(index);
                     upgrades.PrintStats();
                 }
 
+                // Om man trycker mellanslag, få pengar
                 if (key.Key == ConsoleKey.Spacebar)
                 {
-                    int gain = 1;
+                    int gain = 1; // Börjar med 1 per klick
 
+                    // Lägger till bonus från alla upgrades
                     foreach (var u in upgrades.All)
                         gain += u.Level * u.MoneyPerClick;
 
 
-                    Money.value += gain;
+                    Money.value += gain; //Lägger till pengarna
                     upgrades.PrintStats();
                 }
             }

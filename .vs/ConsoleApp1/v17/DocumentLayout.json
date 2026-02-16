@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Upgrades.cs",
               "ToolTip": "C:\\Users\\doman\\Documents\\GitHub\\Incremental\\ConsoleApp1\\Upgrades.cs",
               "RelativeToolTip": "ConsoleApp1\\Upgrades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T23:38:22.242Z",
               "EditorCaption": ""
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Upgrade.cs",
               "ToolTip": "C:\\Users\\doman\\Documents\\GitHub\\Incremental\\ConsoleApp1\\Upgrade.cs",
               "RelativeToolTip": "ConsoleApp1\\Upgrade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T23:38:21.056Z"
+              "WhenOpened": "2026-02-16T23:38:21.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,9 +58,10 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Money.cs",
               "ToolTip": "C:\\Users\\doman\\Documents\\GitHub\\Incremental\\ConsoleApp1\\Money.cs",
               "RelativeToolTip": "ConsoleApp1\\Money.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T23:38:19.592Z"
+              "WhenOpened": "2026-02-16T23:38:19.592Z",
+              "EditorCaption": ""
             }
           ]
         }
